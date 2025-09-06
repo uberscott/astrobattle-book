@@ -1,0 +1,6 @@
+[book]
+authors = ["Scott Williams"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Astro Battle"
