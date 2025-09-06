@@ -1,12 +1,19 @@
-DIR := "~/websites/astrobattle.com/hugo/static/book"
+TAG := "0.0.2"
+TAR := "book.tar.gz"
+OUt := "book"
 
-clean:
-	rm -rf book
-	rm -rf ${DIR}
+clean-tar-gz:
+	rm ${TAR}
+
+clean:  clean-tar-gz
+	rm -rf ${OUT}
 
 build:
 	mdbook build
 
-deploy: build
-	mkdir -p ${DIR}
-	cp -r book ${DIR}
+tar: build
+	tar cvf book.tar.gz ./book 
+
+release: tar
+	git status --porcelain && echo "git status check fail" && exit 1
+	#gh release create ${TAG}
