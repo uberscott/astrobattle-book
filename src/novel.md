@@ -1044,13 +1044,13 @@ that absorbed mother and child and then squeezed something into them.
 
 And to them and only them Rhea spoke one last time: Listen to others and  
 vanquish your foe. Listen to YOUR heart and have no foe to vanquish"  
-Then Rhea spoke again so the general public can hear: Now.... say your names:  
+Then Rhea spoke again so the public can hear: Now.... say your names:  
 "I am Trinadon Wusk of the lost Wuskians.... she held her laughing baby in the  
 sky "And here I present Tres, Dyad and Monoli of the Wuskian trimind\!"
 
 Rhea "my chair and my gifts are yours for safe keeping for a while queen regent  
 Wusk, choose wisely when you choose to pass them along"  
-Then the red membrane of kardia swelled and finally it burst like a gooey souflet.
+Then the red membrane of kardia swelled, and finally it burst like a gooey souflet.
 
 Gravity reestablished its old relationship with Trina and she fell slowly like the planet itself cradled her and her baby with gentle and loving hands.   But when she touched the ground a massive explosion was released but she was now blessed with Rhea's gifts and no thing, person or object could hurt her. She was the most powerful thing in the universe.  They all were Lady Trinadon, Tres, DyAd and little Monoli.
 
