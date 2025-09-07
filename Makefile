@@ -12,8 +12,8 @@ build:
 	mdbook build
 
 tar: build
-	tar cvf book.tar.gz ./book 
+	tar cvf ${TAR} ./${OUT}
 
 release: tar
-	git status --porcelain && echo "git status check fail" && exit 1
-	#gh release create ${TAG}
+	gh release create ${TAG}
+	gh upload ${TAG} ${TAR}
