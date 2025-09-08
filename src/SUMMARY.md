@@ -1,6 +1,9 @@
 # Summary
 
-[Prolog: A Ghastral's Offer](./prolog.md)
+[preamble](./preamble.md)
+
+[prologue](./prologue.md)
+
 [Astro Battle](./title.md)
 
 * [Prelude to the Battle of Illus](prelude_to_the_battle_of_illus.md)
