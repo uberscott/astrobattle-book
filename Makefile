@@ -16,4 +16,5 @@ tar: build
 
 release: tar
 	gh release create ${TAG}
-	gh upload ${TAG} ${TAR}
+	gh release upload ${TAG} ${TAR}
+	rm ${TAR}
