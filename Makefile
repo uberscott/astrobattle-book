@@ -1,4 +1,4 @@
-TAG := "0.0.2"
+TAG := "0.0.4"
 TAR := "book.tar.gz"
 OUt := "book"
 
