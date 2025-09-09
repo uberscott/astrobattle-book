@@ -1,5 +1,5 @@
 
-# POSTURING BEFORE THE BATTLE
+## POSTURING BEFORE THE BATTLE
 
 The Zell had no inkling of the civil war that had just occurred behind the human lines.  And if they had they wouldn’t have cared, they just wanted to fight the strongest and would have probably appreciated the humans for thinning the herd so as not to waste time.
 

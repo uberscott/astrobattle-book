@@ -1,5 +1,4 @@
-
-## CHAPTER 1 BETWEEN CHAOS
+## A NAP BETWEEN CHAOS
 
 Less sailed down a hall in a legitimate panic.
 

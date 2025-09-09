@@ -1,4 +1,4 @@
-# CLOUD BREAKER 
+## CLOUD BREAKER 
 
 As the cavalry came to the apogee between the Third and Forth bounce, The Red Destiny and all the cavalry seemed to rev their thrusters to maximum.  Blue contrails became thicker and more violent as if a huge amount of plasma was just about to erupt   
 into a huge burst of acceleration, the offensive shields flickered with greater intensity and looked as if they would explode.  And then: The Forth bounce didn't happen.

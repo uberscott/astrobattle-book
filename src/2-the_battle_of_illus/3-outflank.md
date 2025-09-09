@@ -1,5 +1,5 @@
 
-# OUTFLANK
+## OUTFLANK
 
 A stream of Zell spikes, radioactive rocks that look like broken stalactites, moved to intercept the Red Destiny.  The Spikes ranged in size from a meter to twenty meters in length.  The density of the spike field made it almost impossible for any ship to pass through unscathed and they had sophisticated homing ability.
 
