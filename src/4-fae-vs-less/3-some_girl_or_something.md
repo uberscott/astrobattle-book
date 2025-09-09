@@ -8,7 +8,7 @@ She pointed her tractor finger at Lester's vault box IM-RY3. The box flew to her
 
 Lester stood dumbfounded for a moment... at a complete loss.
 
-Xor started to pursue the girl, but Nand blocked his path... this time a stern look of yellow eye lights was all that was needed after both had had their daily fill of fisticuffs. Critter also looked to Lester for guidance, stifling his instinct to swoop over and steal the loot.
+Xor started to pursue the girl, but Nand blocked his path... this time a stern look of yellow eye lights was all that was needed after both had their daily fill of fisticuffs. Critter also looked to Lester for guidance, stifling his instinct to swoop over and steal the loot.
 
 "Was that a human or a bot? She was the strongest thing I have ever seen. And why did she take my personal vault item,"
 
