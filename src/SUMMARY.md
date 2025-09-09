@@ -33,11 +33,11 @@
   * [Battle Arena 8 Ball](3-everything_goes_back_to_hell/7-battle_arena_8ball.md)
    
 * [Fae vs Less](4-fae-vs-less.md)
-  * [x](4-fae-vs-less/1-fae_hails_a_ride.md)
-  * [x](4-fae-vs-less/2-key_item.md)
-  * [x](4-fae-vs-less/3-some_girl_or_something.md)
-  * [x](4-fae-vs-less/4-girl_vs_zell.md)
-  * [x](4-fae-vs-less/5-fae_and_less.md)
-  * [x](4-fae-vs-less/6-the-forlorn-hope.md) 
+  * [Fae Hails a Ride](4-fae-vs-less/1-fae_hails_a_ride.md)
+  * [Key Item](4-fae-vs-less/2-key_item.md)
+  * [Some Girl or Something](4-fae-vs-less/3-some_girl_or_something.md)
+  * [Girl vs Zell](4-fae-vs-less/4-girl_vs_zell.md)
+  * [Fae and Less](4-fae-vs-less/5-fae_and_less.md)
+  * [The Forlorn Hope](4-fae-vs-less/6-the-forlorn-hope.md) 
 
 
