@@ -23,4 +23,11 @@
   * [Outflank](2-the_battle_of_illus/3-outflank.md)
   * [A Nap Between Chaos](2-the_battle_of_illus/4-a_nap_between_chaos.md)
 
-* [Back to Hell](2-the_battle_of_illus.md)
+* [Everything Goest Back to Hell](3-everything_goes_back_to_hell.md)
+  * [Sleep Disturbance](3-everything_goes_back_to_hell/1-sleep_disturbance.md)
+  * [Spontaneous Ejection](3-everything_goes_back_to_hell/2-spontaneous_ejection.md)
+  * [Unhappy Reunion](3-everything_goes_back_to_hell/3-unhappy_reunion.md)
+  * [Warbots Mobilize](3-everything_goes_back_to_hell/4-warbots_mobilize.md)
+  * [Parting Company](3-everything_goes_back_to_hell/5-parting_company.md)
+  * [To The Vault](3-everything_goes_back_to_hell/6-to_the_vault.md)
+  * [Battle Arena 8 Ball](3-everything_goes_back_to_hell/7-battle_arena_8ball.md)
