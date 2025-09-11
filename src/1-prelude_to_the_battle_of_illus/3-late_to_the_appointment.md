@@ -2,7 +2,7 @@
 
 Alexander walked down the hall of his command ship accompanied by a bevy of Tactical Engineers.  Fae\*Dra kept pace silently by Alexander’s side.  He haggled with the officers over the logistics of surrendering at the appointed time.
 
-“It doesn’t work like a Fusion or Antimatter core.  Power will build very slowly… it won’t even be powerful enough to propel your ship at the time you are asking–but give it time and you’ll have more power than you can handle.”
+“It doesn’t work like a Fusion or Antimatter core.  Power will build very slowly… it won’t even be powerful enough to propel your ship at the time you are asking–but give it time, and you’ll have more power than you can handle.”
 
 Alexander had blundered when agreeing upon a time to surrender.  He was having a special core installed in The Red Destiny and he miscalculated the time it would take to be ready.  A delay in the transfer of power might be greeted with unwanted hostility.
 
