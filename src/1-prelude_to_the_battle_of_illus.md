@@ -1,2 +1,2 @@
-# Part 1: Prelude to the Battle of Illus 
+# PART 1: PRELUDE TO THE BATTLE OF ILLUS 
 

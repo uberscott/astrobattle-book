@@ -1,10 +1,14 @@
-# Summary
+# ASTRO BATTLE -- THE FORLORN HOPE
 
 [preamble](./preamble.md)
+
+---
 
 [prologue](./prologue.md)
 
 [Astro Battle](./title.md)
+
+---
 
 * [Prelude to the Battle of Illus](1-prelude_to_the_battle_of_illus.md)
   * [Negotiating Surrender](1-prelude_to_the_battle_of_illus/1-negotiating_surrender.md)

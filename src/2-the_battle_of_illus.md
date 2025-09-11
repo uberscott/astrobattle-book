@@ -1,2 +1,2 @@
-# Part 2: The Battle of Illus 
+# PART 2: THE BATTLE OF ILLUS 
 

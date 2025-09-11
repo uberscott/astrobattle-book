@@ -1,6 +1,10 @@
-# NEGOTIATING SURRENDER
+# PART 1: PRELUDE TO THE BATTLE OF ILLUS
 
-“It is **over**. You are **done**.”, A holographic of Supreme Commander Mudd asserted with finality.
+---
+
+## NEGOTIATING SURRENDER
+
+“It is **over**. You are **done**.”, A hologram of Supreme Commander Mudd asserted with finality.
 
 At least a dozen other politicians, lesser officers and bureaucrats surrounded Mudd’s formed a  holographic chorus of baddies. All concurred with Mudd.  All with fight or flight mechanisms strung to near breaking.
 

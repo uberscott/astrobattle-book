@@ -1,3 +1,7 @@
+# PART 3: EVERYTHING GOES BACK TO HELL
+
+---
+
 ## SLEEP DISTURBANCE
 
 One hour after the annihilation of the Zell, the Red Destiny drifted peacefully.  Its main power source was literally fused into a molten mess, it could no longer defend or attack; It could barely move.  Auxiliary power supplied life support and minimal communication.
