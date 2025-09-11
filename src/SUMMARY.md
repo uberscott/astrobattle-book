@@ -11,7 +11,7 @@
 ---
 
 * [Prelude to the Battle of Illus](1-prelude_to_the_battle_of_illus.md)
-  * [Negotiating Surrender](1-prelude_to_the_battle_of_illus/1-negotiating_surrender.md)
+  * [Negotiating Surrender](1-prelude_to_the_battle_of_illus/1-victory-and-surrender.md)
   * [Safety Is Just a Fold Away](1-prelude_to_the_battle_of_illus/2-safety_is_just_a_fold_away.md "Safety Is Just a Fold Away")
   * [Late to the Appointment](1-prelude_to_the_battle_of_illus/3-late_to_the_appointment.md "Late to the Appointment")
   * [One Lester Mann](1-prelude_to_the_battle_of_illus/4-one_lester_mann.md "One Lester Mann")

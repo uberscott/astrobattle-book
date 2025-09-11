@@ -1,23 +1,3 @@
-# PART 1: PRELUDE TO THE BATTLE OF ILLUS
-
----
-
-## NEGOTIATING SURRENDER
-
-“It is **over**. You are **done**.”, A hologram of Supreme Commander Mudd asserted with finality.
-
-At least a dozen other politicians, lesser officers and bureaucrats surrounded Mudd’s formed a  holographic chorus of baddies. All concurred with Mudd.  All with fight or flight mechanisms strung to near breaking.
-
-Alexander Holmes adopted a stoic demeanor for a moment as he sized up his flickering haters in his darkened ready room and then slumped forward slightly as if his body had finally accepted a defeat.
-
-“Surrender now and we will treat you and those you have recklessly lead to hell with fairness and dignity.” A  politician added – presumably an important one.
-
-The stakes of this meeting were quite high as the Human race was presently engaged in two wars.
-
-The first war was between the Humans and a nasty species called the Zell.
-
-The second war was waged between two factions within the human race.  So far the conflict had been purely political in nature yet it had teetered at times on the verge of violence.   Circumstances had produced two completely independent fleets that battled the Zell.  There was the Alliance Fleet which was under Supreme Commander James Mudd who in turn answered to the politicians empowered by the democratic structures of three large human populations. And the other was the Ronin Fleet whose loyalties fell to Alexander Holmes.
-
 The cause of the multi-fleet situation was rooted in what the Zell had done, which requires some explanation:
 
 The Zell were creatures that had no redeeming qualities.  They were everything bad: violent, nasty and sadistic. Life \-- even their own lives--held no importance to the Zell.  A small number of elite Zell were formidable  warriors, but most individual Zell known as the Rabble were no match for the average warbot or human soldier.  Zell would not be scary at all if they didn’t exist in such massive numbers.  Countless Zell cruised the galactic sectors engaging in their favorite pastime of warmongering with the Humans… As a matter of fact the Zell ONLY seemed to hate the Human species and ignored all others.
