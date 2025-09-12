@@ -9,7 +9,7 @@ Less was nothing of the sort. But their punctuated greetings betrayed the
 motivation for rescuing Lester... they were without an Ed Greely and probably in  
 some heap of trouble.
 
-"Zell\!" Rodgie got right to the topic.
+"Zell\!" Bodgie got right to the topic.
 
 "We were attacked by Zell\!" Jet added to the conversation. "They ambushed  
 us and chased us here."
@@ -19,7 +19,7 @@ us and chased us here."
 "And it hit me in my eye\!", Grey claimed. He pointed to his right  
 eye... which looked fine.
 
-"We're cornered. We have no bots. He's coming round the corner:", Rodgie  
+"We're cornered. We have no bots. He's coming round the corner:", Bodgie  
 gave the important information to Less in a panic.
 
 "Right here in my eye\! it hurts\!", Grey continued.
@@ -35,7 +35,7 @@ too damaged to protect us.
 
 " What weapons do you guys have in your arsenal? Dumb looks were returned.
 
-Then Rodgie: "Um... we were sorta paired with Mr. Greely because of an incident involving some weapons at the academy and so then... well... we don't really have any"
+Then Bodgie: "Um... we were sorta paired with Mr. Greely because of an incident involving some weapons at the academy and so then... well... we don't really have any"
 
 “Incident?”
 
@@ -81,4 +81,4 @@ But Lester was done.  “Sic” he said to Critter and critter jumped and attack
 
 Critter disengaged and Vraylar made a hasty retreat.  Lester took his wrench pistol and gave the wretched Zell a little zap in the fanny for good measure… “ACK\!” he said.
 
-“Rodgie If we live through this please remind me to petition the academy to reinstate your weapon permits so you can use them to shoot each other at the earliest convenience”
+“Bodgie If we live through this please remind me to petition the academy to reinstate your weapon permits so you can use them to shoot each other at the earliest convenience”

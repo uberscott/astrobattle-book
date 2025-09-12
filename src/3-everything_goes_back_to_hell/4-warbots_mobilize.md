@@ -13,9 +13,9 @@ seemed to outperform robos in Astro Battle. It was assumed that just like in
 humans a diversity of thought and action made tactics more creative and  
 harder to predict and counter.
 
-"Uhm, sir. Aren't your warbots broken?" Rodgie asked with hesitation.
+"Uhm, sir. Aren't your warbots broken?" Bodgie asked with hesitation.
 
-And what Rodgie said about broken bots was partially true. There was nothing  
+And what Bodgie said about broken bots was partially true. There was nothing  
 wrong with Lester's bot chassis due to regular maintenance, their personalities  
 were however--different. As a matter of fact all three of Lester's bots had been  
 in the retinue of other Tactical Engineers before and all three had been slated  
@@ -55,7 +55,7 @@ doing.
 It was probably the most amazing team in history that also no one respected  
 even a lick. And remember this amazing but awful team was down to one tiny  
 bot so at the moment this diacotomy of skill was blunted in every way.  
-"The junction\!" Rodgie saw the destination and all hover boots terminated as  
+"The junction\!" Bodgie saw the destination and all hover boots terminated as  
 their wearers slid to a safe halt. "Where's Mr Greely?"
 
 "Found him\! Ed was standing listless in the middle. " Jet ran to his advisor with  
@@ -68,7 +68,7 @@ Disappeared .... a hologram... and he didn't disappear into just anything. He wa
 giant Zell brute standing on his hind legs. The Brute swept Jet up and bit his  
 head off dropping the body to die
 
-"Jet\! Rodgie and Gray cowarded behind Less.
+"Jet\! Bodgie and Gray cowarded behind Less.
 
 The Brute fell forward and braced impact with his front arms.... he was now on  
 all fours--the preferred walking style for a Zell and atop his mange an unwanted  
@@ -131,15 +131,15 @@ had utility.
 He checked on the status of the warbots.... they were wading through a rabble  
 of Zell themselves and would be further delayed.
 
-Ed wasn't so far off.... He generated a hologram of Rodgie and gave it his side  
+Ed wasn't so far off.... He generated a hologram of Bodgie and gave it his side  
 arm. The reset was easy.... the 3 survivors ambled off into a safe corner  
-activated the program and holo Rodgie began firing his weapon in all directions  
+activated the program and holo Bodgie began firing his weapon in all directions  
 , shouting "Die\! You unworthy foe" Zell did not like being called unworthy.
 
 From Lester's control he let the hologram get closer to the edge of the shimmer  
 and indeed he lowered the shimmers opacity.
 
-Finally holo Rodgie immerged from the threshold of the shimmer blasting his toy gun in  
+Finally holo Bodgie immerged from the threshold of the shimmer blasting his toy gun in  
 every direction "Unworthy\! Unworthy\!" The hologram said (for they had run out  
 of creative things to say)  
 This stupid move drove the lesser Zell mad. Four Rabbels leapt in the direction of the insults despite the boss Zell's protests that it was an obvious trap and upon contact a concussive explosion destroyed the four Zell in a satisfying way.
@@ -176,7 +176,7 @@ Armor..
 
 Ack Ack Ack Ack Ack\! Suck It\!” screem Vraylar.
 
-Rodgie looked at Lester , perhaps hopeful for what the command "Suck it" might mean, but neither expected it to be fun.
+Bodgie looked at Lester , perhaps hopeful for what the command "Suck it" might mean, but neither expected it to be fun.
 
 It turned out to be an unconventional attack on the shimmer. As his Brute 'began  
 to deeply inhale or suck in the shimmer'.... the brute complied. In a matter of  
@@ -232,13 +232,13 @@ It was unclear how much damage he had taken and of course the boss was missing.
 Lester now had 2 microbombs left. The first was infused with nano-shimmer if  
 a little more time was needed to beat a hasty retreat.... The second’s configuration wasn’t determined yet.
 
-Rodgie and Less approached the carnage with great caution...  
+Bodgie and Less approached the carnage with great caution...  
 All seemed in order, potentially the boss was trapped under the girth of the  
 mighty brutes's body.
 
 Lester stopped first and released a tiny camera bot to float all the way up and  
-capture a closeup of the carnage. But impatient Rodgie walked right up close  
-enough to see over the mighty beasts' belly and in a flash Rodgie was snatched  
+capture a closeup of the carnage. But impatient Bodgie walked right up close  
+enough to see over the mighty beasts' belly and in a flash Bodgie was snatched  
 by the neck. Lester retreated back and exploded his second to last micro bomb,  
 creating a new shimmer zone temporarily throwing the Zells off his trail.
 
@@ -248,12 +248,12 @@ duty again and Lester would be cornered.
 "Hahahaha\! chortled Vraylar. You humans are dumb" (no one argued this  
 statement)
 
-Rodgie writhed and paniced.... he knew what was next for him.
+Bodgie writhed and paniced.... he knew what was next for him.
 
 Suddenly a high powered sniper blast ripped through the hall and hit the brute in the eye. No  
 Effect.
 
-"That's my Rodgie, you can't have my Rodgie\!" Greely chimed in.
+"That's my Bodgie, you can't have my Bodgie\!" Greely chimed in.
 
 Lester frantically checked the status of his warbots. They were close...  
 seconds away even, but that was meaningless. This conflict would end now. A  
@@ -273,7 +273,7 @@ On private comms "So thats whee you were hiding, Ed.... don't ruin my bluff "
 heads. Give us that and I take you to the real Tzo crystal... not a fake."
 
 "Accepted" Vraylar chimed without even considering the deal.  
-The Brute dropped Rodgie who scurried away. And Lester slowly emerged from  
+The Brute dropped Bodgie who scurried away. And Lester slowly emerged from  
 the safety of the shimmer... quite, stoic, his mouth stressed but slammed shut  
 The brute grabbed Less and pulled him close to his gaping jaws... precisely a  
 move not in accordance with the agreement, but Less did not flinch.  
@@ -299,10 +299,10 @@ At this point Lester's standard issue pistol could have made quick work of the
 little monster but in the spirit of all the fun the Zell were trying to have Less  
 decided the party shouldn't just end.
 
-"What do we do with the boss? " asked Rodgie.... Lester gave a knowing look  
+"What do we do with the boss? " asked Bodgie.... Lester gave a knowing look  
 and suggested "Drop kick him to the nearest moon"
 
-Rodgie, now activated and deputized, put on a protective glove, easily chased  
+Bodgie, now activated and deputized, put on a protective glove, easily chased  
 down and captured their rival and then gave him a rather excellent drop kick.
 
 “Ack\! Ack\! Ack\! Ack\!” SPLAT\!
@@ -314,10 +314,10 @@ But no answer from Less.... he was already onto the next task.
 Edward dislodged himself from his hiding spot and stoically approached the  
 dead. Being a soldier and mentally fortified for death as he should have been  
 wasn't enough in this moment. Greely shed some tears and received more  
-comfort from Rodgie and Less who were more stoic about the loss of their  
-Comrades "At least they didn't get you, Rodgie\!" Ed cried… I was waiting for the right shot… i couldn’t do it without you, Lester.
+comfort from Bodgie and Less who were more stoic about the loss of their  
+Comrades "At least they didn't get you, Bodgie\!" Ed cried… I was waiting for the right shot… i couldn’t do it without you, Lester.
 
-Then a large bang.... a service panel on an unseen hall fell off..... Ed and Rodgie  
+Then a large bang.... a service panel on an unseen hall fell off..... Ed and Bodgie  
 hugged each other in anticipation of more face eating, but Less knew only to  
 feer a blasted panel for a cut panel meant warbots.
 

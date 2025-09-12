@@ -126,7 +126,7 @@ Fae seemed to refocus on her task after Alexander gave her such a challenging mu
 
 "Excellent... Fae's got them in a tight spot now!  Ha!", Alexander flicked a comm switch on his console  and commanded: "Execute!"
 
-All Ronins including The Red Destiny disengaged the Zell and boosted towards the gravimectron at a slight off angle.  In an exactly timed maneuver Pete engaged the Gravimectron pulling and slingshoting all Ronin ships away with great velocity, but the Zell were not prepared and fell deeper into the gravity well.  Pete triggered the gravimectron's  detonation and the tiny Zell supply run was no more.
+The Red Destiny and companion ships released a smoke screen of nanoparticles named ***The Shimmer*** which occluded the Zell's vision but not the sensors of the Ronins. Then All Ronins including The Red Destiny disengaged the Zell and boosted towards the gravimectron at a slight off angle.  In an exactly timed maneuver Pete engaged the Gravimectron slingshoting all Ronin ships away with great velocity, but the Zell were confused and not momentarily aligned to slingshot the gravimectron and therefore fell deeper into the gravity well.  Pete triggered the gravimectron's  detonation and the tiny Zell supply run was no more.
 
 
 

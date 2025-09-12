@@ -1,14 +1,14 @@
 ## CHAPTER PARTING COMPANY
 
-"I got the codes to a small cloaking scout ship. Very small.... As a matter of fact we got kinda lucky when those Zell ate up Grey or he would have had to sit on my lap. Not so lucky for you and Rodgie."
+"I got the codes to a small cloaking scout ship. Very small.... As a matter of fact we got kinda lucky when those Zell ate up Grey or he would have had to sit on my lap. Not so lucky for you and Bodgie."
 
-"Rodgie is twice my size\!" Argued Less
+"Bodgie is twice my size\!" Argued Less
 
 "He's gotta bad back.", Ed replied matter of factly.
 
 "You're both smaller.... You could ride on each other's back." , offered Rodgi
 
-Ed:"Yer still learning what it means to be a tactical engineer, Rodgie.... There are just a number of important technical reasons why you can't sit on my lap I don't have time to explain it to you."
+Ed:"Yer still learning what it means to be a tactical engineer, Bodgie.... There are just a number of important technical reasons why you can't sit on my lap I don't have time to explain it to you."
 
 Scout ships were used for reconnaissance or for moving small but high value assets through danger zones. The vehicle role was typically small with minimal weapons or defence--often NO weapons or defence-- and they fell into one of two categories of either being fast or stealthy with the most stealthy sporting fully operational cloaks.
 
@@ -16,9 +16,9 @@ Scout ships were used for reconnaissance or for moving small but high value asse
 
 So using a cloak to get to the fold bubble in time is going to mean getting picked off by point defence system right after we launch
 
-Less: "If we fly away from the fold--where the Zell are less in force at the moment... we might go unnoticed, but then we'll be traveling in space for months before we reach the most primitive space faring civilization near us on account of the fact that we cannot engage faster than light. That means we need supplies for things like.... well we have to feed HIM (referring to Rodgie) And the idea of him getting bigger while sitting on my legs for some months is turning me off to your scout ship plan.
+Less: "If we fly away from the fold--where the Zell are less in force at the moment... we might go unnoticed, but then we'll be traveling in space for months before we reach the most primitive space faring civilization near us on account of the fact that we cannot engage faster than light. That means we need supplies for things like.... well we have to feed HIM (referring to Bodgie) And the idea of him getting bigger while sitting on my legs for some months is turning me off to your scout ship plan.
 
-"We could amputate and preserve your legs and reattach them when we make planetfall", Rodgie suggested (his unorthodox approach was supported by modern technology)
+"We could amputate and preserve your legs and reattach them when we make planetfall", Bodgie suggested (his unorthodox approach was supported by modern technology)
 
 "How bout we amputate your torso and leave both parts here instead" Lester quipped.
 
@@ -40,16 +40,16 @@ Lester gave a disapproving face.... NONE of his bots were even humanoid and plus
 
 Lester jumped into the nearest conveyance tube. His three bot companions followed.
 
-Rodgie shrieked: "That's dangerous"
+Bodgie shrieked: "That's dangerous"
 
 "You can't use conveyance, the Zell are already in there", Ed warned.
 
 "I've programmed my bots to have sex with them.... there shouldn't be any trouble." Xor looked at Nand inquisitively... Critter's eyes flashed yellow (the color of confusion), "To the vault" BOOM\! they were gone,.
 
-"The vault will be the most heavily saturated by enemies on the flotilla.... he won't survive.", said Rodgie
+"The vault will be the most heavily saturated by enemies on the flotilla.... he won't survive.", said Bodgie
 
-"He'll be okay. We've come through many impossible scrapes together. Don't worry.... I know why you're worried and you shouldn't. He'll survive and train those bots of his to have sex with YOU too someday Rodgie.
+"He'll be okay. We've come through many impossible scrapes together. Don't worry.... I know why you're worried and you shouldn't. He'll survive and train those bots of his to have sex with YOU too someday Bodgie.
 
-"Too many ‘sex’ jokes", said Rodgie
+"Too many ‘sex’ jokes", said Bodgie
 
-“Hahah\! Just joking…. Hey\! Less forgot his pistol… Well, I guess you learned your lesson” Ed handed the pistol over to Rodgie.
+“Hahah\! Just joking…. Hey\! Less forgot his pistol… Well, I guess you learned your lesson” Ed handed the pistol over to Bodgie.

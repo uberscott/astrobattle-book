@@ -94,14 +94,14 @@ conveyance sometimes missing him by mere centimeters.
 "Ed Greely" Less said acidically. He stifled his instinct to ignore Ed and instead  
 pinged his location.
 
-"We're close\! Hang on, bud\!" a short burst of static then, "Rodgie, think of  
+"We're close\! Hang on, bud\!" a short burst of static then, "Bodgie, think of  
 something\!" Less rolled his eyes.
 
 A few moments later, "We got you in the system.... redirecting you to our  
-location" Rodgie said proudly. ... via hacking Rodgie presumably had made the  
+location" Bodgie said proudly. ... via hacking Bodgie presumably had made the  
 conveyance see Lester as a person instead of escape pod debris and  
 redirected Less's destination to ... well... wherever they were. Less had planned  
-to blow up the tube and get his warbots to extract him. Rodgie’s plan was  
+to blow up the tube and get his warbots to extract him. Bodgie’s plan was  
 better. Lester puffed and issued a cancel command negating "barrier breach"  
 Directive.
 
