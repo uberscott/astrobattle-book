@@ -1,4 +1,4 @@
-# UNIFICATION AT LAST
+## UNIFICATION AT LAST
 
 The Red Destiny did a victory roll and turned towards the Ronin fleet.  Several ships projected holograms of their crew cheering for the Commander they thought they lost. The Red Destiny then slowed and made a non threatening drift towards the Alliance Fleet.
 

@@ -1,6 +1,5 @@
 ## CHAPTER 5: THE SURRENDER
 
-
 The Red Destiny came to a full stop a mere 100 meters away from Mudd’s flagship.  Her escorts held rear positions at a stand off distance of approximately one kilometer.
 
 “Our pomp and circumstance seems acceptable to them...”  Alexander commented.
