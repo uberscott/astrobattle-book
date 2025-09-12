@@ -1,8 +1,8 @@
-ON THE ZELL
+## ON THE ZELL
 
-HISTORICAL DATAGRAM
+### HISTORICAL DATAGRAM
 
-1) *Observations from Mr. Gary Ungie former inhabitant of Habitat Suzi–a small settlement on the frontier of Human space colonization that was overrun in the initial blitzkrieg by the Zell.  Mr. Ungie's hobby is alien taxonomy.  Mr. Ungie does not have any expert training in this field, however he is presently the most qualified person to report on the Zell.  \[8 years before the battle of ILUS\]*
+ *Observations from Mr. Gary Ungie former inhabitant of Habitat Suzi–a small settlement on the frontier of Human space colonization that was overrun in the initial blitzkrieg by the Zell.  Mr. Ungie's hobby is alien taxonomy.  Mr. Ungie does not have any expert training in this field, however he is presently the most qualified person to report on the Zell.  \[8 years before the battle of ILUS\]*
 
    The following is my report on my superficial observations of the Zell – which happened while I was in the act of narrowly escaping death – please understand that I have recorded the best information that I could scrounge from my memory which may in some cases be inaccurate because I was under severe duress during that harrowing experience.
 

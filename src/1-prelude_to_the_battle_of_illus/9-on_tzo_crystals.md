@@ -1,5 +1,6 @@
 
-HISTORICAL DATAGRAM  
+## ON TZO CRYSTALS
+
 *\[45 years before the battle of ILUS.\]*
 
 *1\. Request for funding rational by Dr. Hideo Tzo on the recent discovery of a certain precursor artifact.*
