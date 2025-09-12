@@ -30,7 +30,7 @@
   * [Outflank](2-the_battle_of_illus/3-outflank.md)
   * [A Nap Between Chaos](2-the_battle_of_illus/4-a_nap_between_chaos.md)
 
-* [Everything Goes Back to Hell](3-everything_goes_back_to_hell.md)
+* [Everything Goes to Hell](3-everything_goes_to_hell.md)
   * [Sleep Disturbance](3-everything_goes_back_to_hell/1-sleep_disturbance.md)
   * [Spontaneous Ejection](3-everything_goes_back_to_hell/2-spontaneous_ejection.md)
   * [Unhappy Reunion](3-everything_goes_back_to_hell/3-unhappy_reunion.md)
