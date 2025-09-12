@@ -1,5 +1,4 @@
-# PROLOG
-## A Ghastral's Offer
+## A GHASTRAL'S OFFER
 
 On a mangled and derelict ship wrecked in the aftermath of a violet space battle , A Ghastral sat on a man's chest. 
 
