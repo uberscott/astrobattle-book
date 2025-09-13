@@ -47,13 +47,13 @@ The majority of the power outflow was used to grow the second aperture increasin
 
 The core’s output would grow to an over-abundance of available energy in the next half hour.  Alexander meant to deliberately push the Tzo Crystal reaction to “The Asymptote” – which was the point at which the power would scale at an exponential rate.  Once the Asymptote is reached the core cannot be shut down.  From that moment the core containment mechanisms will have five minutes before they are overwhelmed resulting in a catastrophic explosion that would consume the ship and anything else within five-thousand kilometers… that is unless the reactor core could be vented in some way.
 
-Alexander carefully regarded a news feed that was playing on one of his screens. The feed played background video of Pete exiting his ship in the hangar of  Mudd’s flagship while some talking pundits effortlessly came to agreement that the Ronin fleet was more or less impotent now that it was stripped of its Chief Tactical Engineer.
+Alexander carefully observed a news feed that was playing on one of his screens. The feed played background video of Pete exiting his ship in the hangar of  Mudd’s flagship while some talking pundits effortlessly came to agreement that the Ronin fleet was more or less impotent now that it was stripped of its Chief Tactical Engineer.
 
 “Ready, Fae?” Alexander asked.
 
 “Affirm, Alex\!”, Fae responded.
 
-Alexander hit a switch that opened a Ronin communication channel.  Several holographic images appeared suddenly in front of him including the visage of Slither.   “Commence.” Alexander said and a chorus of “Rogers” rang out from the virtual gathering.  He turned the channel off and the holographic personages rapidly faded away.
+Alexander hit a switch that opened a Ronin communication channel.  Several holographic images appeared suddenly in front of him including the visage of Slyther.   “Commence.” Alexander said and a chorus of “Rogers” rang out from the virtual gathering.  He turned the channel off and the holographic personages faded away.
 
 The hangar hatch started to open exposing its contents to the vacuum of space.
 
@@ -63,17 +63,19 @@ The hangar hatch started to open exposing its contents to the vacuum of space.
 
 Alexander activated a political feed.  Vid screens everywhere there were humans broadcasting the impending unification.  Pundits showered Admiral Mudd and Politicians alike with unanimous praise and relished Alexander’s satisfying downfall.  Alexander snickered.
 
-#### The Red Destiny
-
 Ronin escorts began to join The Red Destiny in its procession to Mudd’s flagship.
 
-Alexander switched on the comm channel, “Fly more like its a funeral dirge."  Fae fluttered and The Red Destiny suddenly lost its confidence.  “How fly a dirge?” she panicked.  “Yikes\! Not you, Fae.” The ship and pilot's confidence was restored.
+Alexander switched on the comm channel, "Fly more like it's a funeral dirge."  Fae fluttered and The Red Destiny suddenly lost its confidence.  
+
+"How fly a dirge?" Fae panicked.  
+
+"Yikes\! Not you, Fae." The ship and pilot's confidence was restored.
 
 The Red Destiny was a companion class fighter.  Companion class had three stand out features: unrivaled agility, razon shields that could pierce through the toughest of materials and a main beam cannon that was exceptionally powerful for the size of the ship.  Outmaneuvering the enemy, slicing through his defences and dealing a deathblow to his vulnerable spot was the role that made the companion class a winner in astro battle.
 
-Superior Agility was achieved via the Exceed engine which allowed the ship to temporarily break Newton's laws of physics. It allowed instant displacement of a short distance with no apparent acceleration  or deceleration.  The exceed engine aboard the Calvaries had a maximum range of 500 meters, it could be used several times a second though the engine had an overall constraint that was a complicated product of jump size and frequency over time.
+Superior Agility was achieved via the Exceed engine which allowed the ship to temporarily break the laws of physics. It allowed near instant displacement of a short distance with no apparent acceleration  or deceleration.  The exceed engine aboard the Companion's had a maximum range of 500 meters, it could be used several times a second though the engine had an overall constraint that was a complicated product of jump size and frequency over time.
 
-One other weakness: an object that was exceeding could not come into contact with any matter or energy during its short journey. If it did so the exceed jump would be cancelled and the object would return to it's previous velocity most likely destroying it in the process.
+One other weakness: a ship that was using exceed could not come into contact with any matter or energy during its short journey. If it did so the exceed jump would be cancelled and the object would return to its previous velocity most likely destroying it in the process.
 
 The genius of the companion class was in its innovative use of a single reactor that produced energy directly compatible with the main engines and main cannon.  Predecessors required a conversion matrix to supply either the main cannon or the propulsion resulting in considerable loss of efficiency.
 

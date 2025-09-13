@@ -4,13 +4,13 @@ Alexander looked stunned for some seconds of Mudd's rant.  He deactivated his ho
 
 Alexander’s disappearing hologram agitated Mudd even more.  “Hiding now\!? Who’s the real coward\!”
 
-Alexander sat in his command chair and urgently fiddled with his console in order to connect with Sliter.  Slither’s hologram appeared–his sinister smile was gone and in its place was a stoic expression.
+Alexander sat in his command chair and urgently fiddled with his console in order to connect with Sliter.  Slyther’s hologram appeared–his sinister smile was gone and in its place was a stoic expression.
 
 “What happened?” Alexander asked urgently.
 
 “I cannot ascertain the specifics but it appears that elements of Mudd’s lower ranking team somehow surprised our agents–even though we took every precaution to prevent this scenario–in the ensuing struggle our agents were likely killed but possibly just subdued.  In my judgment we have lost control of Mudd’s flagship and cannot hope to retake it.”
 
-“DAMMIT\!”, Alexander exclaimed.  And he banished Slither’s hologram in a frustrated motion.
+“DAMMIT\!”, Alexander exclaimed.  And he banished Slyther’s hologram in a frustrated motion.
 
 “Asymptote in 45 minutes–power continues to grow.” Fae-Dra interjected she seemed unphased by the recent reversal of fortunes. She was possibly not paying attention to the happenings at all as none of it involved her which is a common behavior of Androsynth: They ignore everything happening around them that isn’t directly related to their task.
 

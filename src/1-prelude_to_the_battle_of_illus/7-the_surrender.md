@@ -80,4 +80,4 @@ The rabble front also generated a protection barrier– in this case it was a gr
 
 Both Zell and Human phalanxes were practically impossible to break head on, which is why tactics relied on circumventing, outflanking or sapping tactics. Trying to stop an approaching phalanx with anything but another phalanx was tantamount to a human trying to stop a giant rolling boulder with his bare hands.
 
-Alexander’s console indicated that Slither was requesting a communication channel and he accepted the request.  A holo of Slither appeared above his console.  “Secured” he said and his characteristic sinister smile began to grow.  “Well done.” said Alexander as he simultaneously terminated the call in an effort to avoid seeing Slither’s creepy smile grow to completion.
+Alexander’s console indicated that Slyther was requesting a communication channel and he accepted the request.  A holo of Slyther appeared above his console.  “Secured” he said and his characteristic sinister smile began to grow.  “Well done.” said Alexander as he simultaneously terminated the call in an effort to avoid seeing Slyther’s creepy smile grow to completion.

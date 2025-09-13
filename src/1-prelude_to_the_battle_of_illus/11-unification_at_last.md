@@ -4,7 +4,7 @@ The Red Destiny did a victory roll and turned towards the Ronin fleet.  Several 
 
 The flagship was disabled, but not destroyed. It listed in dereliction and contents were still spilling out from the puncture.  Mudd and his command crew had certainly been killed and more would die in the fires raging through the ship.
 
-“A familiar comm request reached Alexander.  Slither survived.  He broadcast on a private channel to the Ronnins: “Deploy marines to perform rescue and suppression of the survivors.  Do not allow the Alliance fleet to participate in the rescue.”  Then only to his snakes: “ If any surviving bridge officers are encountered, kill them as discreetly as possible."
+“A familiar comm request reached Alexander.  Slyther survived.  He broadcast on a private channel to the Ronnins: “Deploy marines to perform rescue and suppression of the survivors.  Do not allow the Alliance fleet to participate in the rescue.”  Then only to his snakes: “ If any surviving bridge officers are encountered, kill them as discreetly as possible."
 
 “Pete?” Alexander asked.
 
