@@ -1,6 +1,8 @@
 # ASTRO BATTLE
 
-### *1st mental health edition*
+![Astro Battle](box-art.png)
+
+### *draft edition*
 
 ### by Scott Williams
 
