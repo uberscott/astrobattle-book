@@ -12,29 +12,27 @@ Alexander sat in his command chair and urgently fiddled with his console in orde
 
 "DAMMIT\!", Alexander exclaimed.  He banished Slyther’s hologram in a frustrated motion.
 
-"Asymptote in 30 minutes.  Power continues to grow." Fae-Dra interjected she seemed un-phased by the recent reversal of fortunes. She was possibly not paying attention to the happenings at all as none of it involved her which is a common behavior of Androsynth: They ignore everything happening around them that isn’t directly related to their task.
+"Asymptote in 30 minutes.  Power continues to grow." Fae-Dra interjected. 
 
-Alexander made an expression of agitation yet made no response.  He was directly behind Fae-Dra and she couldn’t see his reaction and even if she had seen it she was quite inept when it came to understanding body language .  Alexander never scolded Fae-Dra for her faults.  Her tremendous strengths were too valuable to risk losing in a vain attempt to make her behavior more human.
-
-He was staring at the floor, his mind racing with anxiety as he tried to quickly construct a plan B.  The avenues to many strategies were now closed… He had already hoodwinked his adversaries by leading them to believe he would surrender… His speech had been cut off right before he was going to inspire the Alliance men and women to join his banner–although he had the control codes they were not terribly useful without the loyalties of the flesh and blood assets.  His fleet was significantly smaller and not prepared for a battle.  Mudd’s ship was a massive capital ship that in order for the small Red Destiny to defeat would probably require a major blunder from Mudd.
+Alexander made an expression of agitation yet made no response.  He was staring at the floor, his mind racing with anxiety as he tried to quickly construct a plan B.  The avenues to many strategies were now closed… He had already hoodwinked his adversaries by leading them to believe he would surrender… His speech had been cut off right before he was going to inspire the Alliance men and women to join his banner–although he had the control codes they were not terribly useful without the loyalties of the flesh and blood assets.  His fleet was significantly smaller and not prepared for a battle.  Mudd’s ship was a massive capital ship that in order for the small Red Destiny to defeat would probably require a major blunder from Mudd.
 
 Mudd was still yelling and threatening him.  His weapons were powered up and a visible blue shield barrier was flickering around the entire ship.
 
-It looked bad, yet Alexander had a history of quickly pivoting to new strategies when things didn’t go as planned.  And a plan came to him.
+It looked bad, yet Alexander had a history of quickly pivoting to new strategies when things didn’t go as planned.  And a plan came to him. He stood and reactivated his Holoprojector.  He showed complete confidence and zero fear as he interrupted Mudd’s rant.  Mudd listened probably in the hopes that whatever Alexander said would make him MORE mad.
 
-He stood and reactivated his Holoprojector.  He showed complete confidence and zero fear as he interrupted Mudd’s rant.  Mudd listened probably in the hopes that whatever Alexander said would make him MORE mad.
+"Commander Mudd\!  I’m glad to see that you didn’t just hand over your fleet but instead decided to honor me with a worthy challenge.  I graciously accept\!  I have made the claim that you are not worthy to lead the combined fleet and that my leadership would be more suitable.  From a certain point of view this conflict doesn’t involve our fleets at all but is really a conflict between two men.   So let’s treat it as such\!  I formally challenge you to a duel\!  I’ll even–"
 
-“Commander Mudd\!  I’m glad to see that you didn’t just hand over your fleet but instead decided to honor me with a worthy challenge.  I graciously accept\!  I have made the claim that you are not worthy to lead the combined fleet and that my leadership would be more suitable.  From a certain point of view this conflict doesn’t involve our fleets at all but is really a conflict between two men.   So let’s treat it as such\!  I formally challenge you to a duel\!  I’ll even–”
+Mudd had heard enough and interrupted: "Accepted\!" His hologram disappeared and shortly after Alexander surmised that the discussion was over and deactivated his holoprojection as well.
 
-Mudd had heard enough and interrupted: “Accepted\!” His hologram disappeared and shortly after Alexander surmised that the discussion was over and deactivated his holoprojection as well.
-
-This was a great development.  Alexander's skill in melee combat was renowned whereas there was no record of Mudd ever engaging in a man-to-man skirmish.  Alexander couldn’t believe Mudd agreed to his long shot.
+This was a great development.  Alexander's skill at melee combat was renowned whereas there was no record of Mudd ever engaging in a man-to-man skirmish.  Alexander had relied on Mudd's anger to blunt his better judgement.
 
 Alexander relaxed in his chair then suddenly was caught off guard by what he saw on the main viewscreen.  A stream of energy cannon blasts from multiple origin points dotting Mudd’s ship and each stream would converge on The Red Destiny in a fraction of a second.
 
-However, No surprise attack imaginable could catch Fae-Dra off guard. She used the exceed engine to nearly instantaneously zip to a position still in front of–but now 15 degrees away from the centerpoint–Mudd’s flagship and a moment later the streams converged on empty space.
+"FAE!", he alerted!
 
-The Exceed Engine is what gave the companion class ship its agility and agility was essential to fulfilling the  companion class’s role.  The Exceed Engine performs property shifting on the ship and all its contents.  In an instant the Exceed Engine would reduce the mass of its ship to a micro fraction allowing for a substantial and nearly instant traversal when paired with a coordinated propulsion impulse.  The engine could only be engaged for a fraction of a second then its effect would be nullified causing the ship to resume its pre exceed velocity in an instant.  A major drawback to using exceed is that it also reduced the ship’s atomic cohesion when active which made the ship extremely fragile to the point where collision with a microscopic particle would most likely result in the catastrophic destruction of the ship.  Effectively using Exceed required beyond exceptional piloting skill.
+However, No surprise attack imaginable could catch Fae\*Dra off guard. She used the exceed engine to nearly instantaneously zip to a position still in front of–but now 15 degrees away from the centerpoint–Mudd’s flagship and a moment later the streams converged on empty space.
+
+The Exceed Engine is what gave the companion class ship its agility and agility was essential to fulfilling the  companion class’s role.  The Exceed Engine performs *property shifting* on the ship and all its contents.  In an instant the Exceed Engine would reduce the mass of its ship to a micro fraction allowing for a substantial and nearly instant traversal when paired with a coordinated propulsion impulse.  The engine could only be engaged for a fraction of a second then its effect would expire causing the ship to resume its pre exceed velocity in an instant.  A major drawback to using exceed is that it also reduced the ship’s atomic cohesion when active which made the ship fragile to the point where collision with a microscopic particle would most likely result in the catastrophic destruction of the ship.  Effectively using Exceed required beyond exceptional piloting skill.
 
 “I was challenging him to a face-to-face duel\!” Alexander exclaimed to Fae-Dra who gave the complaint no mind.
 
