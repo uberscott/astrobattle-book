@@ -77,20 +77,18 @@ Superior Agility was achieved via the Exceed engine which allowed the ship to te
 
 One other weakness: a ship that was using exceed could not come into contact with any matter or energy during its short journey. If it did so the exceed jump would be cancelled and the object would return to its previous velocity most likely destroying it in the process.
 
-The genius of the companion class was in its innovative use of a single reactor that produced energy directly compatible with the main engines and main cannon.  Predecessors required a conversion matrix to supply either the main cannon or the propulsion resulting in considerable loss of efficiency.
+The genius of the companion class was in its innovative use of a single reactor that produced energy directly compatible with the main engines and cannon.  Predecessors required a conversion matrix for one or both resulting in considerable loss of efficiency.
 
-The design choice to link the main cannon and propulsion was also the companion’s greatest weakness:  For every drop of power that was supplied to the main cannon, the propulsion would be underpowered proportionally and vice versa.
+The design choice to link the main cannon and propulsion was also the companion’s greatest weakness:  For every drop of power that was supplied to the cannon, the propulsion would be underpowered proportionally and vice versa.
 
-For looks the Calvary sported a sleek design.  It was actually aerodynamic and capable of flight through low density atmospheres. The forward portion housed the bridge and resembled a spear head.  A long neck joined the bridge to the main body of the ship.
+The Companion class sported a sleek design.  It was actually aerodynamic and capable of flight through atmospheres. The forward portion housed the bridge and flared like a spearhead.  A long neck connected the forward bridge to the main body of the ship. The Base flared into modestly protruding diamond shaped winglets.  The propulsion mechanism consisted of one large main thruster sandwiched by four auxiliary thrusters each about one fourth the size of the main thruster.  The neck housed the cannon barrel enclosed inside the hull. Before firing the cannon, the hull plating of the neck and parts of the bridge would separate along a ventral seam and the cannon would be lowered beneath the bridge. 
 
-The neck housed the cannon barrel which was enclosed inside the hull. Before firing the cannon the hull plating of the neck and parts of the bridge would separate along the lateral seam and the cannon would be lowered beneath the bridge. The Base flared into large delta shaped wings.  The propulsion mechanism consisted of one large main thruster sandwiched by four auxiliary thrusters about one fourth the size of the main thruster.  In retro orientation four additional auxiliary thrusters were positioned in similar fashion with their exhaust ports only slightly protruding beyond the edge of the delta wing.
-
-The Ronin fleet produced no more than six companion class ships in its retinue. They were especially expensive to produce due to the exotic materials and layered construction required to support the exceed engine the razon shields and the main cannon.
+The Ronin fleet contained no more than twelve companion class ships in its retinue. They were especially expensive to produce due to the exotic materials and layered construction required to support the exceed engine the razon shield and the main cannon.
 
 Alexander spared no expense in the construction, maintenance and modernization of The Red Destiny.  Support staff joked that every molecule of the ship was slightly better and more expensive than the companion ships of the rank and file.
 
-The small Ronin detachment chunged along as if in morbid resignation.
+The small Ronin detachment chugged along as if in morbid resignation.
 
 The power of the Tzo Crystal doubled again.
 
-“Apogee 3.5”, Fae\*Dra updated.
+"Asymptote in 2 hours", Fae\*Dra updated.

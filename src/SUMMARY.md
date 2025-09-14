@@ -18,8 +18,8 @@
   * [On the State of Androsynth Technology](1-prelude_to_the_battle_of_illus/5-on_the_state_of_androsynth_technology.md)
   * [Disembarkation](1-prelude_to_the_battle_of_illus/6-disembarkation.md)
   * [The Surrender](1-prelude_to_the_battle_of_illus/7-the_surrender.md)
-  * [Victory](1-prelude_to_the_battle_of_illus/8-victory.md)
-  * [On Tzo Crystals](1-prelude_to_the_battle_of_illus/9-on_tzo_crystals.md)
+  * [On Tzo Crystals](1-prelude_to_the_battle_of_illus/8-on_tzo_crystals.md)
+  * [Victory](1-prelude_to_the_battle_of_illus/9-victory.md)
   * [A Fight After All](1-prelude_to_the_battle_of_illus/10-a_fight_after_all.md)
   * [Unification at Last](1-prelude_to_the_battle_of_illus/11-unification_at_last.md)
    
