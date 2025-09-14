@@ -1,38 +1,39 @@
 ## UNIFICATION AT LAST
 
-The Red Destiny did a victory roll and turned towards the Ronin fleet.  Several ships projected holograms of their crew cheering for the Commander they thought they lost. The Red Destiny then slowed and made a non threatening drift towards the Alliance Fleet.
+The Red Destiny did a victory roll and turned towards the Ronin fleet.  Several ships projected holograms of their crew cheering for the Commander they thought they lost. The Red Destiny then slowed and made a non-threatening drift towards the Alliance Fleet.
 
-The flagship was disabled, but not destroyed. It listed in dereliction and contents were still spilling out from the puncture.  Mudd and his command crew had certainly been killed and more would die in the fires raging through the ship.
+Mudd's flagship was disabled, but not destroyed. She listed and her contents were still spilling out from the puncture.  Mudd and his command crew had certainly been killed and more would die in the fires raging through the ship.
 
-“A familiar comm request reached Alexander.  Slyther survived.  He broadcast on a private channel to the Ronnins: “Deploy marines to perform rescue and suppression of the survivors.  Do not allow the Alliance fleet to participate in the rescue.”  Then only to his snakes: “ If any surviving bridge officers are encountered, kill them as discreetly as possible."
+Alexander broadcast on a private channel to the Ronins: "Deploy marines to perform rescue and suppression of the survivors.  Do not allow the Alliance fleet to participate in the rescue."  Then he summoned a hologram of Slyther: “ If any surviving bridge officers are encountered, kill them as discreetly as possible.  What of Pete?", Alexander asked.
 
-“Pete?” Alexander asked.
+"I have my snakes searching." Slyther responded.
 
-“searching.” Slyther responded..
+"FIND HIM.", Alexander ordered. Slyther’s always-half-smile grew imperceptively then he gave a light bow and backed into the darkness.
 
-“FIND HIM.” Alexander delivered imperative, he knew the two were not fond of each other.  “Glad you survived”  Slyther’s always-half-smile grew imperceptively then he gave a light bow and backed into the darkness.
+"Asymptote in 18 minutes," Fae reported.
 
-"Twenty-Eight minutes until we reach the asymptote," Fae reported.
-
-"Now to secure the loyalty of the Defence fleet. I wish I could do this later, but it has to be now.
+"Now to secure the loyalty of the Defence fleet. I wish I could do this later, but it has to be now."
 
 "Fae, Are there any corpses floating in space?", Alexander asked.
 
 "Seventeen.", Said Fae.
 
-"Let me see them.  Tractor them with dignity to the Red Destiny. Assume our position for the speech. ", A menu of the seventeen corpses appeared on Alexander's screen each with an accompanying close up video of the body.
+"Let me see them." seventeen squares each an image of a corpse jumped on Alexander's console. "Tractor them with dignity to the Red Destiny."
 
-"Genlty, place sixteen of the corpses in two rows extending out in front of and slightly below the center line of the Red Destiny. Straighten their bodies.  Take this one", he selected one of the corpses from his corpse menu, "And make his velocity approach the red destiny slowly along the center line of the Red Destiny and in between the two rows of corpses... Do not straighten his body, I like the mangled look it has.  Time everything so the final body meets with me right at the base of the two rows, nearest the Red Destiny. Launch a spy drone and have it film me."
+"Dignity!?" Fae said confusedly.
+
+
+"Gently," Alexander corrected himself, "Place sixteen of the corpses in two rows extending out in front of and slightly below the center line of the Red Destiny. Straighten their bodies.  Take this one", he selected one of the corpses from his corpse menu, "And make his velocity approach the red destiny slowly along the center line and in between the two rows of corpses... Do not straighten his body, I like the mangled look it has.  Time everything so the final body meets with me right at the base of the two rows, nearest the Red Destiny. Launch a spy drone and have it capture a holo of me."
 
 He donned his space helmet and an automatic process began making his armor space worthy.
 
 "How much time do I have?", Alexander asked.
 
-"Five minutes till Asym"
+"2 minutes"
 
-"That will have to do.", Alexander ambled down a hatch on the side of the bridge, exited the forward space hatch, and floated slowly into the dark of space approaching the uneasy Defence fleet.
+"That will have to do.", Alexander ambled down a hatch on the side of the bridge, exited the forward space hatch, and floated slowly into the dark of space approaching the uneasy Alliance fleet.
 
-Now Supreme Commander Alexander drifted solemnly towards the rows of the dead.  The camera drone travelled a meter before him broadcasting to every last human that lived.
+He drifted solemnly towards the rows of the dead.  The holo drone travelled a meter before him broadcasting to every last human that lived.
 
 His motion came to a rest in between the first row of the dead.   The drone kept floating away and the bodies moved through the broadcast's perspective like church pews move through the perspective of a bride walking down the isle.
 
