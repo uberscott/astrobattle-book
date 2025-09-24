@@ -1,5 +1,7 @@
 ## VICTORY AND SURRENDER
 
+![The Red Destiny](the-red-destiny.jpg)
+
 Somewhere in the universe insignificant dots fought each other over things unimportant to the cosmos--or so it seemed.  The dots composed two rival flocks. The first was of the Humans--you may have heard of them. The other the Zell: hideous little monsters that seemed to love violence even when the violence was perpetrated against themselves.  Their obsession made them comical little fellows--well 'comical' to one who could overlook all the mass murder.  The Humans couldn't overlook mass murder and therefore: War!
 
 The ships of the unwelcome Zell devils were made of organic materials--as a matter of fact a Zell spaceship WAS a type of Zell that had grown into a ship.  The outer hull was of hardened black carapace which had an uneven and random bumpiness to it and from any opening or crevice a sickly green glow emanated.  The Zell themselves could survive in space and often walked on the surface of their ships.

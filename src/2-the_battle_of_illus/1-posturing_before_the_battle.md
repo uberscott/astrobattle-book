@@ -1,13 +1,8 @@
-
-# PART 2: THE BATTLE OF ILLUS
-
----
-
 ## POSTURING BEFORE THE BATTLE
 
 The Zell had no inkling of the civil war that had just occurred behind the human lines.  And if they had they wouldn’t have cared, they just wanted to fight the strongest and would have probably appreciated the humans for thinning the herd so as not to waste time.
 
-Between the opposing forces no man's land was sandwiched by the human phalanx shield wall and the Zell cloud–a chaotic and unwieldy looking green vapor mass of Zell nano-machines that applied a cumulative repulsive force like a force field, but a little more.  Zell were able to pass through their cloud because of technology that humans did not understand.
+Between the opposing forces no man's land was sandwiched by the human phalanx shield wall and the Zell cloud–a chaotic and unwieldy-looking green vapor mass of Zell nano-machines that applied a cumulative repulsive force like a force field, but a little more.  Zell were able to pass through their cloud because of technology that humans did not understand.
 
 More importantly, anything that the Zell DIDN’T want in the cloud would experience fantastic drag, like it was in sticky tar and tar that zapped its prey with frequent destructive shocks as well.  Breaching the thicker parts of the cloud would mean getting the fleet trapped and certainly eventually killed.
 
